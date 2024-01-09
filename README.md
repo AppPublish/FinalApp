@@ -1,0 +1,1 @@
+[![Build Status](https://dev.azure.com/digital-devians/AgileMethod/_apis/build/status%2FAppPublish.FinalApp?branchName=main)](https://dev.azure.com/digital-devians/AgileMethod/_build/latest?definitionId=8&branchName=main)
